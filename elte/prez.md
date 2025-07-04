@@ -109,7 +109,7 @@ dt ca(lépésünk - a valós késleltetés)ᵡ¹ cb(lépésünk - a valós késl
 
 Az előző értékből kivonunk, hozzáadunk, ahogy kell
 
-### Interaktív változat
+### Interaktív változat 2
 
 Ugyanaz, mint az előző, csak még több csúszka
 
